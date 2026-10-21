@@ -13,6 +13,83 @@
 # Project releases: https://github.com/StevenBlack/hosts/releases
 #
 # ===============================================================
+# --- Core & Global ---
+mail.yahoo.com
+login.yahoo.com
+yahoomail.com
+imap.mail.yahoo.com
+smtp.mail.yahoo.com
+pop.mail.yahoo.com
+api.mail.yahoo.com
+api.login.yahoo.com
+edit.yahoo.com
+mg.mail.yahoo.com
+
+# --- Alternative Yahoo Mail ---
+ymail.com
+rocketmail.com
+mail.ymail.com
+mail.rocketmail.com
+
+# --- Europa ---
+mail.yahoo.co.uk
+login.yahoo.co.uk
+uk.mail.yahoo.com
+yahoomail.co.uk
+mail.yahoo.fr
+login.yahoo.fr
+fr.mail.yahoo.com
+mail.yahoo.de
+login.yahoo.de
+de.mail.yahoo.com
+mail.yahoo.it
+login.yahoo.it
+it.mail.yahoo.com
+mail.yahoo.es
+login.yahoo.es
+es.mail.yahoo.com
+mail.yahoo.ro
+ro.mail.yahoo.com
+mail.yahoo.ie
+ie.mail.yahoo.com
+mail.yahoo.se
+se.mail.yahoo.com
+mail.yahoo.gr
+gr.mail.yahoo.com
+
+# --- America de Nord și de Sud ---
+mail.yahoo.ca
+login.yahoo.ca
+ca.mail.yahoo.com
+yahoomail.ca
+mail.yahoo.com.br
+br.mail.yahoo.com
+mail.yahoo.com.mx
+mx.mail.yahoo.com
+mail.yahoo.com.ar
+ar.mail.yahoo.com
+mail.yahoo.com.co
+co.mail.yahoo.com
+
+# --- Asia & Pacific ---
+mail.yahoo.in
+login.yahoo.in
+in.mail.yahoo.com
+mail.yahoo.com.au
+au.mail.yahoo.com
+mail.yahoo.co.nz
+nz.mail.yahoo.com
+mail.yahoo.com.sg
+sg.mail.yahoo.com
+mail.yahoo.com.my
+mail.yahoo.com.ph
+mail.yahoo.com.vn
+mail.yahoo.com.tw
+tw.mail.yahoo.com
+mail.yahoo.com.hk
+hk.mail.yahoo.com
+mail.yahoo.co.jp
+login.yahoo.co.jp
 
 # Custom host records are listed here.
 
