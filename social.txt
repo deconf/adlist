@@ -11,85 +11,73 @@
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/social-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
 # Project releases: https://github.com/StevenBlack/hosts/releases
-#
-# ===============================================================
+
 # --- Core & Global ---
-mail.yahoo.com
-login.yahoo.com
-yahoomail.com
-imap.mail.yahoo.com
-smtp.mail.yahoo.com
-pop.mail.yahoo.com
-api.mail.yahoo.com
-api.login.yahoo.com
-edit.yahoo.com
-mg.mail.yahoo.com
+0.0.0.0 mail.yahoo.com
+0.0.0.0 login.yahoo.com
+0.0.0.0 yahoomail.com
+0.0.0.0 imap.mail.yahoo.com
+0.0.0.0 smtp.mail.yahoo.com
+0.0.0.0 pop.mail.yahoo.com
+0.0.0.0 api.mail.yahoo.com
+0.0.0.0 api.login.yahoo.com
+0.0.0.0 edit.yahoo.com
+0.0.0.0 mg.mail.yahoo.com
 
 # --- Alternative Yahoo Mail ---
-ymail.com
-rocketmail.com
-mail.ymail.com
-mail.rocketmail.com
+0.0.0.0 ymail.com
+0.0.0.0 rocketmail.com
+0.0.0.0 mail.ymail.com
+0.0.0.0 mail.rocketmail.com
 
 # --- Europa ---
-mail.yahoo.co.uk
-login.yahoo.co.uk
-uk.mail.yahoo.com
-yahoomail.co.uk
-mail.yahoo.fr
-login.yahoo.fr
-fr.mail.yahoo.com
-mail.yahoo.de
-login.yahoo.de
-de.mail.yahoo.com
-mail.yahoo.it
-login.yahoo.it
-it.mail.yahoo.com
-mail.yahoo.es
-login.yahoo.es
-es.mail.yahoo.com
-mail.yahoo.ro
-ro.mail.yahoo.com
-mail.yahoo.ie
-ie.mail.yahoo.com
-mail.yahoo.se
-se.mail.yahoo.com
-mail.yahoo.gr
-gr.mail.yahoo.com
+0.0.0.0 mail.yahoo.co.uk
+0.0.0.0 login.yahoo.co.uk
+0.0.0.0 uk.mail.yahoo.com
+0.0.0.0 yahoomail.co.uk
+0.0.0.0 mail.yahoo.fr
+0.0.0.0 login.yahoo.fr
+0.0.0.0 fr.mail.yahoo.com
+0.0.0.0 mail.yahoo.de
+0.0.0.0 login.yahoo.de
+0.0.0.0 de.mail.yahoo.com
+0.0.0.0 mail.yahoo.it
+0.0.0.0 login.yahoo.it
+0.0.0.0 it.mail.yahoo.com
+0.0.0.0 mail.yahoo.es
+0.0.0.0 login.yahoo.es
+0.0.0.0 es.mail.yahoo.com
+0.0.0.0 mail.yahoo.ro
+0.0.0.0 ro.mail.yahoo.com
+0.0.0.0 mail.yahoo.ie
+0.0.0.0 ie.mail.yahoo.com
+0.0.0.0 mail.yahoo.se
+0.0.0.0 se.mail.yahoo.com
+0.0.0.0 mail.yahoo.gr
+0.0.0.0 gr.mail.yahoo.com
 
 # --- America de Nord și de Sud ---
-mail.yahoo.ca
-login.yahoo.ca
-ca.mail.yahoo.com
-yahoomail.ca
-mail.yahoo.com.br
-br.mail.yahoo.com
-mail.yahoo.com.mx
-mx.mail.yahoo.com
-mail.yahoo.com.ar
-ar.mail.yahoo.com
-mail.yahoo.com.co
-co.mail.yahoo.com
+0.0.0.0 mail.yahoo.ca
+0.0.0.0 login.yahoo.ca
+0.0.0.0 ca.mail.yahoo.com
+0.0.0.0 yahoomail.ca
+0.0.0.0 mail.yahoo.com.br
+0.0.0.0 br.mail.yahoo.com
+0.0.0.0 mail.yahoo.com.mx
+0.0.0.0 mx.mail.yahoo.com
+0.0.0.0 mail.yahoo.com.ar
+0.0.0.0 ar.mail.yahoo.com
+0.0.0.0 mail.yahoo.com.co
+0.0.0.0 co.mail.yahoo.com
 
 # --- Asia & Pacific ---
-mail.yahoo.in
-login.yahoo.in
-in.mail.yahoo.com
-mail.yahoo.com.au
-au.mail.yahoo.com
-mail.yahoo.co.nz
-nz.mail.yahoo.com
-mail.yahoo.com.sg
-sg.mail.yahoo.com
-mail.yahoo.com.my
-mail.yahoo.com.ph
-mail.yahoo.com.vn
-mail.yahoo.com.tw
-tw.mail.yahoo.com
-mail.yahoo.com.hk
-hk.mail.yahoo.com
-mail.yahoo.co.jp
-login.yahoo.co.jp
+0.0.0.0 mail.yahoo.in
+0.0.0.0 login.yahoo.in
+0.0.0.0 in.mail.yahoo.com
+0.0.0.0 mail.yahoo.com.au
+0.0.0.0 au.mail.yahoo.com
+0.0.0.0 mail.yahoo.co.
+
 
 # Custom host records are listed here.
 
