@@ -1,0 +1,66 @@
+# --- Core & Global ---
+0.0.0.0 mail.yahoo.com
+0.0.0.0 login.yahoo.com
+0.0.0.0 yahoomail.com
+0.0.0.0 imap.mail.yahoo.com
+0.0.0.0 smtp.mail.yahoo.com
+0.0.0.0 pop.mail.yahoo.com
+0.0.0.0 api.mail.yahoo.com
+0.0.0.0 api.login.yahoo.com
+0.0.0.0 edit.yahoo.com
+0.0.0.0 mg.mail.yahoo.com
+
+# --- Alternative Yahoo Mail ---
+0.0.0.0 ymail.com
+0.0.0.0 rocketmail.com
+0.0.0.0 mail.ymail.com
+0.0.0.0 mail.rocketmail.com
+
+# --- Europa ---
+0.0.0.0 mail.yahoo.co.uk
+0.0.0.0 login.yahoo.co.uk
+0.0.0.0 uk.mail.yahoo.com
+0.0.0.0 yahoomail.co.uk
+0.0.0.0 mail.yahoo.fr
+0.0.0.0 login.yahoo.fr
+0.0.0.0 fr.mail.yahoo.com
+0.0.0.0 mail.yahoo.de
+0.0.0.0 login.yahoo.de
+0.0.0.0 de.mail.yahoo.com
+0.0.0.0 mail.yahoo.it
+0.0.0.0 login.yahoo.it
+0.0.0.0 it.mail.yahoo.com
+0.0.0.0 mail.yahoo.es
+0.0.0.0 login.yahoo.es
+0.0.0.0 es.mail.yahoo.com
+0.0.0.0 mail.yahoo.ro
+0.0.0.0 ro.mail.yahoo.com
+0.0.0.0 mail.yahoo.ie
+0.0.0.0 ie.mail.yahoo.com
+0.0.0.0 mail.yahoo.se
+0.0.0.0 se.mail.yahoo.com
+0.0.0.0 mail.yahoo.gr
+0.0.0.0 gr.mail.yahoo.com
+
+# --- America de Nord și de Sud ---
+0.0.0.0 mail.yahoo.ca
+0.0.0.0 login.yahoo.ca
+0.0.0.0 ca.mail.yahoo.com
+0.0.0.0 yahoomail.ca
+0.0.0.0 mail.yahoo.com.br
+0.0.0.0 br.mail.yahoo.com
+0.0.0.0 mail.yahoo.com.mx
+0.0.0.0 mx.mail.yahoo.com
+0.0.0.0 mail.yahoo.com.ar
+0.0.0.0 ar.mail.yahoo.com
+0.0.0.0 mail.yahoo.com.co
+0.0.0.0 co.mail.yahoo.com
+
+# --- Asia & Pacific ---
+0.0.0.0 mail.yahoo.in
+0.0.0.0 login.yahoo.in
+0.0.0.0 in.mail.yahoo.com
+0.0.0.0 mail.yahoo.com.au
+0.0.0.0 au.mail.yahoo.com
+0.0.0.0 mail.yahoo.co.
+
